@@ -27,7 +27,7 @@ COLORS = {
 
 # Simple Question List
 QUESTION_BANK = [
-    "Why did you choose ISS?",
+    "What are your career goals for the next three years?",
     "Talk about your most recent project."
 ]
 
