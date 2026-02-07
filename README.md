@@ -104,15 +104,6 @@ In `interview.py`, you can adjust:
 
 ---
 
-## Contributing
-
-Issues and PRs are welcome.
-
-- Keep PRs focused and small
-- Avoid adding institution-specific or confidential interview content
-
----
-
 ## License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
